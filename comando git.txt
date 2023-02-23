@@ -1,0 +1,13 @@
+COMANDOS GIT
+
+git init SOLO UNA VEZ 
+git add .
+git commit -m "comentario"
+
+cls para limpiar consola
+mkdir para crear carpeta 
+
+
+PARA VOLVER A ANTERIOR COMMIT
+VER CODIGO DE COMMIT CON GIT LOG --ONELINE
+INGRESAR GIT CHECKOUT Y CODIGO DE COMMIT
